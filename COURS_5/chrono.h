@@ -1,0 +1,2 @@
+void start();
+float stop();
