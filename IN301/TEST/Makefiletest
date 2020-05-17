@@ -1,9 +1,0 @@
-run: compile
-	./test1
-	
-compile: test1.c
-
-	gcc -o test1 -Wall test1.c
-
-clean:
-	rm -f test1

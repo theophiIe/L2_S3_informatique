@@ -1,4 +1,0 @@
-wc nombres.data
-sort -n nombres.data > nombres_tries.data
-uniq nombres_tries.data > nombres_uniq.data
-wc -l nombres_uniq.data
