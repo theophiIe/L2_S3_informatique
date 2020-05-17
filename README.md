@@ -1,3 +1,6 @@
-# L2_S3_informatique
+# L2 S3 informatique
 
-Projet sudoku + exercice de Td + polyde td
+- Correction des cours 4 et 5
+- Exercice de TD
+- Projet Sudoku
+- Poly de TD 
